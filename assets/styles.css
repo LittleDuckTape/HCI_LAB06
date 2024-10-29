@@ -1,0 +1,37 @@
+body {
+    background-color: #2C598D !important;
+    color: #F1F1F1 !important;
+}
+
+a {
+    color: #FFD700 !important; /* Gold link color */
+}
+
+a:hover {
+    color: #FFA500 !important; /* Darker gold if mouse hover over link */
+}
+
+.header-custom {
+    background-color: #193A6F !important;
+}
+
+.skills-hobbies {
+    background-color: #F8F9FA !important; /* Light background for Skills & Hobbies */
+    color: #2C598D !important;
+}
+
+.list-group-item {
+    background-color: #FFFFFF !important; /* White background for each skill item */
+    color: #2C598D !important;
+    border-color: #DDDDDD !important;
+}
+
+button.btn-primary {
+    background-color: #006eff;
+    border-color: #2C598D;
+}
+
+button.btn-primary:hover {
+    background-color: #FFA500;
+    border-color: #2C598D;
+}
